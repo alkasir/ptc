@@ -9,10 +9,12 @@ The API's is working but **NOT** stable.
 
 To be generally usable this project needs
 
-* tests
-* documentation
-* error types instead of logging
-* example code/command's
+* Remove reference to Alkasir in environment clean function so that it does not.
+  refereces a specific implementation in the code.
+* Write documentation (readme/Go docstrings).
+* (maybe) more error types where logging is currently used.
+* Write tests.
+* example code/command's of an server and client.
 * ... (TO BE DEFINED)
 
 
